@@ -16,13 +16,13 @@ main {
     width: 20rem;
     height: 10rem;
     color: rgb(46, 37, 22);
-    margin: 1rem;
+    margin: auto;
     font-size: large;
     font-weight: 600;
     background-color: rgba(251, 249, 249, 0.3);
     border-radius: 2rem 0;
 
-    /* border: 2px solid white; */
+    border: 2px solid white;
 }
 
 span{
