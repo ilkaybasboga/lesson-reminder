@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  
+  display: flex;
+  align-items: center;
+  background-color: #fbda61;
+  background-image: linear-gradient(45deg, #fbda61 0%, #ff5acd 100%);
+}
+.header p {
+  font-size: 5rem;
+}
+.header-img {
+  /* display: block; */
+  width: 15%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4rem;
+  font-family: 'Rubik Vinyl', cursive;
+  color: aliceblue;
+}
