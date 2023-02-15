@@ -3,7 +3,7 @@
 # HW-React-Lesson-Reminder 
 
 ## Project Skeleton 
-
+```
 HW-React-Lesson-Reminder (folder)
 +public
 --index.html
@@ -24,7 +24,7 @@ HW-React-Lesson-Reminder (folder)
 --index.js
 +package.json
 +package-lock.json
-
+```
 ## Expected Outcome
 
 ![Project gif](./Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-02-15%20161830.png)
