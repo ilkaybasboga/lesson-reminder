@@ -30,7 +30,7 @@ HW-React-Lesson-Reminder (folder)
 ![Project gif](./Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-02-15%20161830.png)
 
 
-### At the end of the project, following topics are to be covered;
+### At the end of the project, I will learn the following topics;
 - REACT
 
 - HTML 
